@@ -12,4 +12,5 @@ package com.sist.dao;
  */
 public class Emp {
 	private int empno;
+	
 }
